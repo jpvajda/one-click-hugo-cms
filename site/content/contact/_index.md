@@ -12,9 +12,11 @@ We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
 is valuable for us.
 
-Test! 
+# Test! 
 
-Another test!
+#  Another Test!
+
+# Yet Another Test!
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
